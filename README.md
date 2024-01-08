@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm a software engineer. I am developing projects in the Front-end field.
+Hello, I'm a software engineer. I am developing projects in the Front-end.
 
 - koraydincc@icloud.com
 
